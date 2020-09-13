@@ -1,0 +1,4 @@
+        Principal: mimatsui@42TOKYO.JP
+
+  Issued                Expires               Principal
+Sep 13 09:43:29 2020  Sep 13 19:43:29 2020  krbtgt/42TOKYO.JP@42TOKYO.JP
